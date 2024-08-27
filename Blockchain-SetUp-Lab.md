@@ -25,7 +25,7 @@
 | 7 | [To develop a simple crypto exchange and wallet system for users to trade and securely store cryptocurrencies.](https://www.youtube.com/watch?v=d_XOWCoUAHY&list=PLS5SEs8ZftgXHEtZ19lXmDQZm_1JKaBTK) | LO4 | 2023, 2024 |
 | 8 | [To develop a web application that leverages blockchain technology through DApp development.](https://www.youtube.com/watch?v=3681ZYbDSSk&list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr) | LO6 | 2023, 2024 |
 | 9 | [To deploy and configure a private blockchain network on a cloud platform (AWS or Azure) for testing and development purposes]([https://www.youtube.com/watch?v=3681ZYbDSSk&list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr)](https://aws.amazon.com/blogs/database/deploy-smart-contracts-to-your-private-ethereum-blockchain-network-on-aws/) | LO6 | 2023, 2024 |
-| # 10 | Hyperledger Fabric Demo | LO5, LO6 | 2024 |
+| # 10 | Hyperledger Fabric Demo - [GoLang](https://learn.kba.ai/course/hyperledger-fabric-fundamentals-golang/) or [JavaScript](https://learn.kba.ai/course/hyperledger-fabric-fundamentals/)| LO5, LO6 | 2024 |
 
 * Note : Experiment with $ is removed from the new list and Experiment # is added in Academic Year 2024
 
