@@ -1,6 +1,16 @@
 # [Course : Blockchain Development (HBCC701)](https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing)
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
+## Evaluation Scheme
+| No | Rubrics | Marks | Document |
+| :--: | ------------------ | :----: | :--------:|
+| 1 | End Semester Exam | 60 Marks | |
+| 2 | Internal Assessment | 20 Marks | Mid-Term Paper, Mid-Term Paper Solution | |
+| 3 | Continuous Assessment | 20 Marks | |
+|   | Total Marks | 100 Marks | |
+
+Prerequisite: Introduction to Blockchain and Bitcoin
+
 ## Module - 1: Ethereum Ecosystem						
 Ethereum components: miner and mining node, Ethereum virtual machine, Ether, Gas, Transactions, accounts, swarm and whisper, Ethash, an end-to-end transaction in Ethereum, the architecture of Ethereum.
 #### Self-learning Topics: Emerging blockchain platforms  
