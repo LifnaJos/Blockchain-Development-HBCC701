@@ -1,4 +1,5 @@
-# Blockchain Setup Lab (ODD SEMESTER : 2023, 2024)
+# Blockchain Setup Lab 
+* Semester : VII for Academic Year - 2023, 2024
 * Lab Instructor:	Mrs. Lifna C S
 * Email:			lifna.cs@ves.ac.in	
 
