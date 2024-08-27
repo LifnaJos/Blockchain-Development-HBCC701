@@ -13,18 +13,18 @@
 ## Evaluation Scheme 
 
 | No.| List of Practical Experiments |  LO | Academic Year |
-| :--: | :----------------------------: | :--:| :-------------: |
-| 1 | To install and set up an Ethereum network to create a private Ethereum blockchain for development and testing purposes. | LO1| 2023, 2024 |
-| 2 | Create a Blockchain using Python | LO1 | 2023, 2024 |
-| 3 | Study on Solidity Programming for creating Smart Contracts | LO2 |  2023, 2024 |
-| 4 | Creating a Smart contract in Remix IDE and managing the Smart Contract using Ganache | LO2 | 2023, 2024 |
-| $ | Compare and analyze the simulation process of mining blocks and earning Ether (cryptocurrency) rewards in a local blockchain development environment using both Proof of Work (PoW) and Proof of Authority (PoA) consensus mechanisms. | LO3 | 2023 |
-| 5 | To develop a web-based gateway that serves as an entry point for users to access and interact with Ethereum Mainnet. |LO5 |  2023, 2024 |
-| 6 | To develop a blockchain-powered web application using Solidity programming language on Remix IDE and embedding Metamask Wallet | LO5 |  2023, 2024 |
-| 7 | To develop a simple crypto exchange and wallet system for users to trade and securely store cryptocurrencies. | LO4 | 2023, 2024 |
-| 8 | To develop a web application that leverages blockchain technology through DApp development. | LO6 | 2023, 2024 |
-| 9 | To deploy and configure a private blockchain network on a cloud platform (AWS or Azure) for testing and development purposes | LO6 | 2023, 2024 |
-| # 10 | Hyperledger based App Development | LO5, LO6 | 2024 |
+| :--: | ---------------------------- | :--:| :-------------: |
+| 1 | [To install and set up an Ethereum network to create a private Ethereum blockchain for development and testing purposes.](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-1-Ethereum-Geth.md) | LO1| 2023, 2024 |
+| 2 | [Create a Blockchain using Python](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-2-Blockchain-Python.md) | LO1 | 2023, 2024 |
+| 3 | [Study on Solidity Programming for creating Smart Contracts](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-3-Solidity-Study-RemixIDE.md) | LO2 |  2023, 2024 |
+| 4 | [Creating a Smart contract in Remix IDE and managing the Smart Contract using Ganache](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-4-Ethereum-Ganache) | LO2 | 2023, 2024 |
+| $ | [Compare and analyze the simulation process of mining blocks and earning Ether (cryptocurrency) rewards in a local blockchain development environment using both Proof of Work (PoW) and Proof of Authority (PoA) consensus mechanisms.](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-5-CaseStudy-PoW-PoS.md) | LO3 | 2023 |
+| 5 | [To develop a web-based gateway that serves as an entry point for users to access and interact with Ethereum Mainnet.](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-6-Ethereum-Mainnet-Interaction.md) |LO5 |  2023, 2024 |
+| 6 | [To develop a blockchain-powered web application using Solidity programming language on Remix IDE and embedding Metamask Wallet](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Lab-7-WebApp-Metamask-Wallet.md) | LO5 |  2023, 2024 |
+| 7 | [To develop a simple crypto exchange and wallet system for users to trade and securely store cryptocurrencies.](https://www.youtube.com/watch?v=d_XOWCoUAHY&list=PLS5SEs8ZftgXHEtZ19lXmDQZm_1JKaBTK) | LO4 | 2023, 2024 |
+| 8 | [To develop a web application that leverages blockchain technology through DApp development.](https://www.youtube.com/watch?v=3681ZYbDSSk&list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr) | LO6 | 2023, 2024 |
+| 9 | [To deploy and configure a private blockchain network on a cloud platform (AWS or Azure) for testing and development purposes]([https://www.youtube.com/watch?v=3681ZYbDSSk&list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr)](https://aws.amazon.com/blogs/database/deploy-smart-contracts-to-your-private-ethereum-blockchain-network-on-aws/) | LO6 | 2023, 2024 |
+| # 10 | Hyperledger Fabric Demo | LO5, LO6 | 2024 |
 
 * Note : Experiment with $ is removed from the new list and Experiment # is added in Academic Year 2024
 
