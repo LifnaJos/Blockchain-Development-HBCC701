@@ -34,32 +34,44 @@ Solidity programming, Smart Contract programming using solidity, mapper function
 * Theory :
   - [Smart Contracts](https://drive.google.com/file/d/1hoCOmAhDkzdFW6VDabM-aIxdY_xSHPsT/view?usp=sharing)
   - [Theory for Solidity Programming](https://docs.soliditylang.org/en/v0.8.21/)
-  - Solidity Documentation,
-  - Solidity Quick Guide
+  - [Solidity Documentation,](https://docs.soliditylang.org/_/downloads/en/v0.8.21/pdf/)
+  - [Solidity Quick Guide](https://drive.google.com/file/d/1bR6xR5uMcJ5tctxCAvHwTFef7Gyw8CHg/view?usp=sharing)
 * YoutTube : 
-Solidity by Example
-Quicknode - Web3 Developer Platform 
-Online Materials :   LearnETH - Remix IDE,   Solidity by Examples,   Cheat Sheet for Solidity
-                   Quicknode - Documentation
-Module - 4: Blockchain Deployment								
+  -  [Solidity by Example](https://www.youtube.com/watch?v=hMwdd664_iw&list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+  -  [Quicknode - Web3 Developer Platform](https://www.youtube.com/watch?v=88-hpZE4OU8&list=PLT2H_0otcvBTf1M2na67r4LtAPsen2VzD)
+* Online Materials :
+  - [LearnETH - Remix IDE,](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
+  - [Solidity by Examples,](https://solidity-by-example.org/)
+  - [Cheat Sheet for Solidity](https://docs.soliditylang.org/en/latest/cheatsheet.html#global-variables)
+  - [Quicknode - Documentation](https://www.quicknode.com/guides/ethereum-development/smart-contracts/solidity-vs-vyper)
+  
+## Module - 4: Blockchain Deployment								
 Ethereum client, Ethereum Network, Introduction to Go Ethereum (Geth), Geth Installation and Geth CLI, Setting up a Private Ethereum Blockchain. Introduction to Truffle, Smart Contract Deployment on a Private Blockchain. Introduction to Ganache Introduction to Dapp, Dapp architecture, Daaps Scalability, testing Connecting to the Blockchain and Smart Contract, Web3js, Deployment
-Theory : Blockchain Deployment
-Online Materials : 
-Setting up a Private Ethereum Blockchain using Geth,   
-Geth in Developers mode
-Web 3.0 - Preeti Kasireddy
-How does the new Ethereum work? - Preeti Kasireddy **
-Blockchain Development & Security Course - Portland State University
-Complete Web3 and Solidity Development Roadmap 2022 -  Vittorio Rivabella
-DApp University - Gregory
-Module - 5: Hyperledger Application Development						
-Installing Hyperledger Fabric, Hyperledger Fabric Network, Building Your First Network, Hyperledger Fabric Demo, Hyperledger Fabric Network Configuration, Certificate Authorities, Chaincode Development and Invocation, Deployment and testing of chaincode on development network, Hyperledger Fabric Transactions.
-Self-learning Topics: Hyperledger sawtooth, Hyperledger caliper
-Theory:                NPTEL Blockchain PPTs - Lecture 14 to 29  ***
-Online Materials:  Private Blockchain,  
-                             Chainfy Project - Github,  PPT,  Video Link 
-Module - 6: Blockchain integration and Research challenges	
-Integrating Blockchain with cloud, IoT, AI, ERP, End-to-end blockchain integration, Risks and Limitations of Blockchain: Privacy & Security. Criminal Use of Payment Blockchains, The “Dark” Side of Blockchain Research challenges in blockchain 
-Self-learning Topics: Use Cases: Blockchain for Health Insurance, Blockchain in Supply chain management, Blockchain & PropTech, Blockchain in Banking
-Theory:                NPTEL Blockchain PPTs - Lecture 30 to 60  ***
+* Theory : [Blockchain Deployment](https://drive.google.com/file/d/19dT_-qAtA_KNknd4TnVYuqdSOQ3I50hG/view?usp=share_link)
+* Online Materials : 
+1. [Setting up a Private Ethereum Blockchain using Geth,](https://github.com/LifnaJos/Private-Ethereum-Blockchain-setup-using-Geth#readme)
+2. [Geth in Developers mode](https://github.com/LifnaJos/Geth-in-Developer-Mode#readme)
+3. [Web 3.0 - Preeti Kasireddy](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+4. [How does the new Ethereum work? - Preeti Kasireddy **](https://www.preethikasireddy.com/post/how-does-the-new-ethereum-work)
+5. [Blockchain Development & Security Course - Portland State University](https://codelabs.cs.pdx.edu/cs410b/)
+6. [Complete Web3 and Solidity Development Roadmap 2022 -  Vittorio Rivabella](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+7. [DApp University - Gregory](https://www.dappuniversity.com/)
 
+## Module - 5: Hyperledger Application Development						
+Installing Hyperledger Fabric, Hyperledger Fabric Network, Building Your First Network, Hyperledger Fabric Demo, Hyperledger Fabric Network Configuration, Certificate Authorities, Chaincode Development and Invocation, Deployment and testing of chaincode on development network, Hyperledger Fabric Transactions.
+#### Self-learning Topics: Hyperledger sawtooth, Hyperledger caliper
+* Theory:  [NPTEL Blockchain PPTs - Lecture 14 to 29  ***](https://drive.google.com/drive/folders/1teROdBijYNhHIpIDoqd3w5cpxYZ1t9Sb?usp=sharing)
+* Online Materials:
+    - [Private Blockchain,](https://drive.google.com/file/d/1_OqqufOmrZlSrRBfSRn1W_5V4ySTF-qL/view?usp=sharing)
+    - Chainfy Project
+      - [Github](https://github.com/Sujaljp/Land-registry-using-Hyperledger-Fabric-#land-registry-using-hyperledger-fabric-),
+      - [PPT,](https://drive.google.com/file/d/15GBrzTdR7h8S_M6M2FHbqjO66jgZI-ts/view?usp=sharing)
+      - [Video Link](https://drive.google.com/file/d/1dC6JxEVBfGLeCHQpUTntIDJmfk12Ozhe/view?usp=sharing)
+
+## Module - 6: Blockchain integration and Research challenges	
+Integrating Blockchain with cloud, IoT, AI, ERP, End-to-end blockchain integration, Risks and Limitations of Blockchain: Privacy & Security. Criminal Use of Payment Blockchains, The “Dark” Side of Blockchain Research challenges in blockchain 
+#### Self-learning Topics: Use Cases: Blockchain for Health Insurance, Blockchain in Supply chain management, Blockchain & PropTech, Blockchain in Banking
+* Theory: [NPTEL Blockchain PPTs - Lecture 30 to 60  ***](https://drive.google.com/drive/folders/1teROdBijYNhHIpIDoqd3w5cpxYZ1t9Sb?usp=sharing)
+
+## Acknowledgements
+* This material was prepared as a part of the Honor/Minor Degree Course - **Blockchain Development** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of All Branches.
