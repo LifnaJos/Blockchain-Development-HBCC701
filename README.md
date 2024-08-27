@@ -9,7 +9,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 3 | Continuous Assessment | 20 Marks | |
 |   | Total Marks | 100 Marks | |
 
-Prerequisite: Introduction to Blockchain and Bitcoin
+Prerequisite: Introduction to Blockchain Platforms
 
 ## Module - 1: Ethereum Ecosystem						
 Ethereum components: miner and mining node, Ethereum virtual machine, Ether, Gas, Transactions, accounts, swarm and whisper, Ethash, an end-to-end transaction in Ethereum, the architecture of Ethereum.
