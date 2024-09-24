@@ -5,7 +5,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | End Semester Exam | 60 Marks | [May'23](https://drive.google.com/file/d/1bPn0vf56ue-C6uJlaSDI3e58Ong03QER/view?usp=drive_link), [Dec'22](https://drive.google.com/file/d/1mqwUtm5VrG53Tk86djKhafIB0gfmR8zK/view?usp=drive_link)|
-| 2 | Internal Assessment | 20 Marks | Mid-Term Paper, [2023 Mid-Term Paper Solution](https://mail.google.com/mail/u/0?ui=2&ik=a65ebaf21a&attid=0.1&permmsgid=msg-a:r-1321351696654216069&th=18af3ae12eb6d247&view=att&disp=inline&realattid=f_ln9gm2az0) | |
+| 2 | Internal Assessment | 20 Marks | Mid-Term Paper, [2023 Mid-Term Paper Solution](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_23-24_Mid_Term_Solution.pdf) | |
 | 3 | Continuous Assessment | 20 Marks | |
 |   | Total Marks | 100 Marks | |
 
