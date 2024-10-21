@@ -1,7 +1,8 @@
 # Blockchain Setup Lab 
 * Semester : VII for Academic Year - 2023, 2024
 * Lab Instructor:	Mrs. Lifna C S
-* Email:			lifna.cs@ves.ac.in	
+* Email:			lifna.cs@ves.ac.in
+* Journal Index Page : [Index Page](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_IndexPage(2024-25).pdf)
 
 ## Lab Outcome (LO’s) : 
 1. To understand how blockchain systems (mainly Ethereum) work.
