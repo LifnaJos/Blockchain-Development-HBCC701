@@ -1,5 +1,6 @@
 # [Course : Blockchain Development (HBCC701)](https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing)
-* [Blockchain Development Lab Manual]()
+* [Blockchain Development Lab Manual](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BC_Honors_Sem7-%20Lab%20Instructions.pdf)
+  
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Evaluation Scheme
