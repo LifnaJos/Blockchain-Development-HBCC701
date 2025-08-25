@@ -2,6 +2,7 @@
 * [Blockchain Development Lab Manual](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BC_Honors_Sem7-%20Lab%20Instructions.pdf)
   
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
+[D17C Attendance](https://docs.google.com/spreadsheets/d/1Z-2seGd5kmOG0gKmTzJ3ftO54kAyDY1b4IGO9ZTWgT0/edit?usp=sharing)
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
@@ -11,7 +12,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 3 | Continuous Assessment | 20 Marks | |
 |   | Total Marks | 100 Marks | |
 
-##Prerequisite:  Blockchain Platforms
+## Prerequisite:  Blockchain Platforms
 
 ## Module - 1: Ethereum Ecosystem						
 Ethereum components: miner and mining node, Ethereum virtual machine, Ether, Gas, Transactions, accounts, swarm and whisper, Ethash, an end-to-end transaction in Ethereum, the architecture of Ethereum.
