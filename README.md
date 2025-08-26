@@ -1,5 +1,4 @@
-# [Course : Blockchain Development (HBCC701)](https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing)
-* [Blockchain Development Lab Manual](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BC_Honors_Sem7-%20Lab%20Instructions.pdf)
+# Course : Blockchain Development (HBCC701)
   
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
@@ -12,6 +11,17 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 2 | Internal Assessment | 20 Marks | [2024 Mid-Term Paper](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_24-25_Mid_Term.pdf), [2024 Mid-Term Paper Solution](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_23-24_Mid_Term_Solution.pdf) | |
 | 3 | Continuous Assessment | 20 Marks | |
 |   | Total Marks | 100 Marks | |
+
+## Important Documents
+| No | Document Name | Document |
+|:-: |------------- | :--------: |
+| 1. | Theory Syllabus | [Th-Syllabus]((https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing)) |
+| 2. | Lab Syllabus | [Prac-Syllabus](https://drive.google.com/file/d/1l1_o0zbvGOJlSh5gj-Q5pixZS7FubdY1/view?usp=sharing) |
+| 3. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1QqD6fB7B2DQcIEZSUgTQmNueWtTvbzdh/view?usp=sharing) |
+| 4. | Lab Manual | [BDLab-Manual](https://docs.google.com/document/d/1TLlwBXMpYak7kQQB4xZkmW0jBQrHIB614u2Su0KoHCs/edit?tab=t.0)
+| 5. | Index Page | [Index](https://docs.google.com/document/d/1es1_xGX5m5_tCHmFSSt1Yen8iFtgEQfLurRzsE59jb8/edit?tab=t.0) |
+| 6. | Attendance Sheet | [BD-Atten](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing)
+
 
 ## Prerequisite:  Blockchain Platforms
 
