@@ -2,8 +2,6 @@
   
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
-[D17C Attendance](https://docs.google.com/spreadsheets/d/1Z-2seGd5kmOG0gKmTzJ3ftO54kAyDY1b4IGO9ZTWgT0/edit?usp=sharing)
-
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
