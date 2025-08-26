@@ -15,7 +15,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 ## Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus]((https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing)) |
+| 1. | Theory Syllabus | [Th-Syllabus](https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing) |
 | 2. | Lab Syllabus | [Prac-Syllabus](https://drive.google.com/file/d/1l1_o0zbvGOJlSh5gj-Q5pixZS7FubdY1/view?usp=sharing) |
 | 3. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1QqD6fB7B2DQcIEZSUgTQmNueWtTvbzdh/view?usp=sharing) |
 | 4. | Lab Manual | [BDLab-Manual](https://docs.google.com/document/d/1TLlwBXMpYak7kQQB4xZkmW0jBQrHIB614u2Su0KoHCs/edit?tab=t.0)
