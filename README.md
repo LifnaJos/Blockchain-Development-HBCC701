@@ -11,8 +11,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) | 2nd week Aug'25 - 4th week Aug'25 |
 |   | b. MCQ  | 5 Marks | | | 
 |   | c. Certification Courses | 5 / 10 Marks | | |
-
-|   | Total Marks | 100 Marks | |
+|   | Total Marks | 100 Marks | | |
 
 ## Important Documents
 | No | Document Name | Document |
@@ -21,7 +20,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 2. | Lab Syllabus | [Prac-Syllabus](https://drive.google.com/file/d/1l1_o0zbvGOJlSh5gj-Q5pixZS7FubdY1/view?usp=sharing) |
 | 3. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1QqD6fB7B2DQcIEZSUgTQmNueWtTvbzdh/view?usp=sharing) |
 | 4. | Lab Manual | [BDLab-Manual](https://docs.google.com/document/d/1TLlwBXMpYak7kQQB4xZkmW0jBQrHIB614u2Su0KoHCs/edit?tab=t.0)
-| 5. | Index Page | [Index](https://docs.google.com/document/d/1es1_xGX5m5_tCHmFSSt1Yen8iFtgEQfLurRzsE59jb8/edit?tab=t.0) |
+| 5. | Index Page | [Index](https://docs.google.com/document/d/1es1_xGX5m5_tCHmFSSt1Yen8iFtgEQfLurRzsE59jb8/edit?tab=t.0), [Certificate Page](https://docs.google.com/document/d/1DUvJkBqvd_PMxWMh4ZhfUtVlxaEh_KEUGDFifZLkfTs/edit?usp=sharing) |
 | 6. | Attendance Sheet | [BD-Atten](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing)
 
 
