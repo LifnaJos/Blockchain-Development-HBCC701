@@ -8,7 +8,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 1 | End Semester Exam | 60 Marks | [May'23](https://drive.google.com/file/d/1bPn0vf56ue-C6uJlaSDI3e58Ong03QER/view?usp=drive_link), [Dec'22](https://drive.google.com/file/d/1mqwUtm5VrG53Tk86djKhafIB0gfmR8zK/view?usp=drive_link), [May 2024](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_MU_May_2024.pdf)|
 | 2 | Internal Assessment | 20 Marks | [2024 Mid-Term Paper](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_24-25_Mid_Term.pdf), [2024 Mid-Term Paper Solution](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_23-24_Mid_Term_Solution.pdf) | |
 | 3 | Continuous Assessment | 20 Marks | |
-|   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) | 2nd week Aug'25 - 4th week Aug'25 |
+|   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) [Case Study Report]() | 2nd week Aug'25 - 4th week Oct'25 |
 |   | b. MCQ  | 5 Marks | | | 
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
@@ -23,7 +23,6 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 5. | Index Page | [Index](https://docs.google.com/document/d/1es1_xGX5m5_tCHmFSSt1Yen8iFtgEQfLurRzsE59jb8/edit?tab=t.0), |
 | 6. | Attendance Sheet | [BD-Atten](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing) |
 | 7. | Certificate Page | [Certificate Page](https://docs.google.com/document/d/1DUvJkBqvd_PMxWMh4ZhfUtVlxaEh_KEUGDFifZLkfTs/edit?usp=sharing) |
-
 
 ## Prerequisite:  Blockchain Platforms
 
@@ -98,6 +97,25 @@ Installing Hyperledger Fabric, Hyperledger Fabric Network, Building Your First N
 Integrating Blockchain with cloud, IoT, AI, ERP, End-to-end blockchain integration, Risks and Limitations of Blockchain: Privacy & Security. Criminal Use of Payment Blockchains, The “Dark” Side of Blockchain Research challenges in blockchain 
 #### Self-learning Topics: Use Cases: Blockchain for Health Insurance, Blockchain in Supply chain management, Blockchain & PropTech, Blockchain in Banking
 * Theory: [NPTEL Blockchain PPTs - Lecture 30 to 60  ***](https://drive.google.com/drive/folders/1teROdBijYNhHIpIDoqd3w5cpxYZ1t9Sb?usp=sharing)
+
+## Case Study Report with Gihub Project Links (Academic Year 2025-26)
+| No | Student Name | Department | Project title |  Github Link |
+|:-: |------------- | :--------: | :------------: | :----------: |
+| 1. | BHATTACHARJEE BINAYAK | Electronics & Computer Science Engineering |  | [Link]() |
+| 2. | JADHAV RITALI | Electronics & Computer Science Engineering |  | [Link](https://github.com/ritali-jadhav/blockchain-7-sem-MP) |
+| 3. | PHADTARE ATHARVA | Electronics & Computer Science Engineering |  | [Link](https://github.com/atharvamp04/TraceCraft) |
+| 4. | JADHAV SANIKA | Artificial Intelligence & Data Science Engineering | Digital_Identity_Management | [Link](https://github.com/AKINAS05/Digital_Identity_Management) |
+| 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/Shlok-tech/Blockchain-Mini-Project-SEM-7) |
+| 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/sanskruti-nawander/BLOCKCHAIN-MINI-PROJECT-SEM7.git) |
+| 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/SujalSahu2610/document-verification-dapp) |
+| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/sayyedmaaz23/QuizMint) |
+| 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | |  [Link](https://github.com/Arshad-Shaikh-0802/EVoting-BlockChain.git) |
+| 10 | VIJAY ESHAN | Computer Engineering | | [Link](https://github.com/eshanvijay/Defi-Staking-Swap/) |
+| 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering |  | [Link](https://github.com/ANI-MAZING/PatientRecordBlockchain) |
+| 12 | PANDA SLESHA | Electronics & Telecommunications Engineering |  | [Link]() |
+| 13 | DHAGE HARIOM  | Electronics & Telecommunications Engineering |  | [Link]() |
+| 14 | TULASI SUSHANT | Information Technology Engineering | | [Link](https://github.com/Sushant0412/blockchain_miniProject) |
+| 15 | SHINDE AKANKSHA | Information Technology Engineering |  | [Link](https://github.com/AkankshaShinde23/BlockVault?tab=readme-ov-file) |
 
 ## Acknowledgements
 * This material was prepared as a part of the Honor/Minor Degree Course - **Blockchain Development** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of All Branches.
