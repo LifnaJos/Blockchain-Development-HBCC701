@@ -101,21 +101,21 @@ Integrating Blockchain with cloud, IoT, AI, ERP, End-to-end blockchain integrati
 ## Case Study Report with Gihub Project Links (Academic Year 2025-26)
 | No | Student Name | Department | Project title |  Github Link |
 |:-: |------------- | :--------: | :------------: | :----------: |
-| 1. | BHATTACHARJEE BINAYAK | Electronics & Computer Science Engineering |  | [Link]() |
-| 2. | JADHAV RITALI | Electronics & Computer Science Engineering |  | [Link](https://github.com/ritali-jadhav/blockchain-7-sem-MP) |
-| 3. | PHADTARE ATHARVA | Electronics & Computer Science Engineering |  | [Link](https://github.com/atharvamp04/TraceCraft) |
+| 1. | BHATTACHARJEE BINAYAK | Electronics & Computer Science Engineering | Unified Blockchain-Based Legal Document Management (eVault) | [Link](https://github.com/ZenMachina16/Blockchain-Based-eVault) |
+| 2. | JADHAV RITALI | Electronics & Computer Science Engineering | Land Registry Using Blockchain | [Link](https://github.com/ritali-jadhav/blockchain-7-sem-MP) |
+| 3. | PHADTARE ATHARVA | Electronics & Computer Science Engineering | Supply Chain Transparency Network for Sustainable Trade | [Link](https://github.com/atharvamp04/TraceCraft) |
 | 4. | JADHAV SANIKA | Artificial Intelligence & Data Science Engineering | Digital_Identity_Management | [Link](https://github.com/AKINAS05/Digital_Identity_Management) |
-| 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/Shlok-tech/Blockchain-Mini-Project-SEM-7) |
-| 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/sanskruti-nawander/BLOCKCHAIN-MINI-PROJECT-SEM7.git) |
-| 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/SujalSahu2610/document-verification-dapp) |
-| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering |  | [Link](https://github.com/sayyedmaaz23/QuizMint) |
-| 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | |  [Link](https://github.com/Arshad-Shaikh-0802/EVoting-BlockChain.git) |
-| 10 | VIJAY ESHAN | Computer Engineering | | [Link](https://github.com/eshanvijay/Defi-Staking-Swap/) |
-| 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering |  | [Link](https://github.com/ANI-MAZING/PatientRecordBlockchain) |
+| 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering | MediChain | [Link](https://github.com/Shlok-tech/Blockchain-Mini-Project-SEM-7) |
+| 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering | FoodChain – Farm to Table Traceability Platform | [Link](https://github.com/sanskruti-nawander/BLOCKCHAIN-MINI-PROJECT-SEM7.git) |
+| 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering | Blockchain-Based Document Verification System | [Link](https://github.com/SujalSahu2610/document-verification-dapp) |
+| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering | QuizMint | [Link](https://github.com/sayyedmaaz23/QuizMint) |
+| 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | E-Voting DApp Using Blockchain and React |  [Link](https://github.com/Arshad-Shaikh-0802/EVoting-BlockChain.git) |
+| 10 | VIJAY ESHAN | Computer Engineering | DeFi Token Staking & Swap Platform | [Link](https://github.com/eshanvijay/Defi-Staking-Swap/) |
+| 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering | Patient Records DApp | [Link](https://github.com/ANI-MAZING/PatientRecordBlockchain) |
 | 12 | PANDA SLESHA | Electronics & Telecommunications Engineering |  | [Link]() |
 | 13 | DHAGE HARIOM  | Electronics & Telecommunications Engineering |  | [Link]() |
-| 14 | TULASI SUSHANT | Information Technology Engineering | | [Link](https://github.com/Sushant0412/blockchain_miniProject) |
-| 15 | SHINDE AKANKSHA | Information Technology Engineering |  | [Link](https://github.com/AkankshaShinde23/BlockVault?tab=readme-ov-file) |
+| 14 | TULASI SUSHANT | Information Technology Engineering | Multi-Signature Wallet using Blockchain | [Link](https://github.com/Sushant0412/blockchain_miniProject) |
+| 15 | SHINDE AKANKSHA | Information Technology Engineering | BlockVault : Decentralized Image Uploading and Sharing using Blockchain & IPFS  | [Link](https://github.com/AkankshaShinde23/BlockVault?tab=readme-ov-file) |
 
 ## Acknowledgements
 * This material was prepared as a part of the Honor/Minor Degree Course - **Blockchain Development** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of All Branches.
