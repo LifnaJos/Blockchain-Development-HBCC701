@@ -8,7 +8,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 1 | End Semester Exam | 60 Marks | [May'23](https://drive.google.com/file/d/1bPn0vf56ue-C6uJlaSDI3e58Ong03QER/view?usp=drive_link), [Dec'22](https://drive.google.com/file/d/1mqwUtm5VrG53Tk86djKhafIB0gfmR8zK/view?usp=drive_link), [May 2024](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_MU_May_2024.pdf)|
 | 2 | Internal Assessment | 20 Marks | [2024 Mid-Term Paper](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_24-25_Mid_Term.pdf), [2024 Mid-Term Paper Solution](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/BD_HD_23-24_Mid_Term_Solution.pdf) | |
 | 3 | Continuous Assessment | 20 Marks | |
-|   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) [Case Study Report]() | 2nd week Aug'25 - 4th week Oct'25 |
+|   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) [Case Study Reports 2025-26](https://github.com/LifnaJos/Blockchain-Development-HBCC701/tree/main#case-study-report-with-gihub-project-links-academic-year-2025-26) | 2nd week Aug'25 - 4th week Oct'25 |
 |   | b. MCQ  | 5 Marks | | | 
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
