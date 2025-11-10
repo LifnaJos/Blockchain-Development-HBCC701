@@ -112,7 +112,7 @@ Integrating Blockchain with cloud, IoT, AI, ERP, End-to-end blockchain integrati
 | 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | E-Voting DApp Using Blockchain and React |  [Link](https://github.com/Arshad-Shaikh-0802/EVoting-BlockChain.git) |
 | 10 | VIJAY ESHAN | Computer Engineering | DeFi Token Staking & Swap Platform | [Link](https://github.com/eshanvijay/Defi-Staking-Swap/) |
 | 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering | Patient Records DApp | [Link](https://github.com/ANI-MAZING/PatientRecordBlockchain) |
-| 12 | PANDA SLESHA | Electronics & Telecommunications Engineering |  | [Link] |
+| 12 | PANDA SLESHA | Electronics & Telecommunications Engineering |  Pharma Supply Chain DApp  | [Link](https://github.com/stackqueen/pharma_chain) |
 | 13 | DHAGE HARIOM  | Electronics & Telecommunications Engineering |  | [Link] |
 | 14 | TULASI SUSHANT | Information Technology Engineering | Multi-Signature Wallet using Blockchain | [Link](https://github.com/Sushant0412/blockchain_miniProject) |
 | 15 | SHINDE AKANKSHA | Information Technology Engineering | BlockVault : Decentralized Image Uploading and Sharing using Blockchain & IPFS  | [Link](https://github.com/AkankshaShinde23/BlockVault?tab=readme-ov-file) |
