@@ -23,6 +23,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 5. | Index Page | [Index](https://docs.google.com/document/d/1es1_xGX5m5_tCHmFSSt1Yen8iFtgEQfLurRzsE59jb8/edit?tab=t.0), |
 | 6. | Attendance Sheet | [BD-Atten](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing) |
 | 7. | Certificate Page | [Certificate Page](https://docs.google.com/document/d/1DUvJkBqvd_PMxWMh4ZhfUtVlxaEh_KEUGDFifZLkfTs/edit?usp=sharing) |
+| 8. | Sample Practical Questions | [Practical Questions](https://github.com/LifnaJos/Blockchain-Development-HBCC701/blob/main/Labwise_Instructions/Sample-Practical-Questions.md) |
 
 ## Prerequisite:  Blockchain Platforms
 
